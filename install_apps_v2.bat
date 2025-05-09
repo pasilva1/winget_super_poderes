@@ -27,6 +27,7 @@ winget install --id Microsoft.OpenSSH.Beta --exact --accept-package-agreements -
 winget install --id Microsoft.WindowsTerminal --exact --accept-package-agreements --accept-source-agreements
 winget install --id Microsoft.Sysinternals.Desktops --exact --accept-package-agreements --accept-source-agreements
 winget install --id ClamWin.ClamWin --exact --accept-package-agreements --accept-source-agreements
+winget install --id Postman.Postman --exact --accept-package-agreements --accept-source-agreements
 
 echo === BAIXANDO INSTALADORES EXTERNOS COM CURL ===
 
