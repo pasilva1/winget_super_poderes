@@ -19,6 +19,7 @@ winget install --id Notepad++.Notepad++ --exact --accept-package-agreements --ac
 winget install --id Microsoft.VisualStudioCode --exact --accept-package-agreements --accept-source-agreements
 winget install --id JetBrains.IntelliJIDEA.Community.EAP --exact --accept-package-agreements --accept-source-agreements
 winget install --id Microsoft.Git --exact --accept-package-agreements --accept-source-agreements
+winget install --id 7zip.7zip --exact --accept-package-agreements --accept-source-agreements
 winget install --id Flameshot.Flameshot --exact --accept-package-agreements --accept-source-agreements
 winget install --id Microsoft.Teams --exact --accept-package-agreements --accept-source-agreements
 winget install --id Microsoft.Sysinternals.BGInfo --exact --accept-package-agreements --accept-source-agreements
