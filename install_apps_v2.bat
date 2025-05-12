@@ -37,6 +37,7 @@ curl -L -o getwinget.exe https://aka.ms/getwinget
 curl -L -o FortiClientVPN.exe https://links.fortinet.com/forticlient/win/vpnagent
 curl -L -o python-3.11.0-amd64.exe https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe
 curl -L -o https://statics.teams.cdn.office.net/evergreen-assets/DesktopClient/MSTeamsSetup.exe
+curl -L -o https://dbeaver.io/files/dbeaver-ce-latest-x86_64-setup.exe
 
 echo === FINALIZADO ===
 pause
