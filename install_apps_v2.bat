@@ -19,6 +19,7 @@ winget install --id Notepad++.Notepad++ --exact --accept-package-agreements --ac
 winget install --id Microsoft.VisualStudioCode --exact --accept-package-agreements --accept-source-agreements
 winget install --id JetBrains.IntelliJIDEA.Community.EAP --exact --accept-package-agreements --accept-source-agreements
 winget install --id Microsoft.Git --exact --accept-package-agreements --accept-source-agreements
+winget install --id dbeaver.dbeaver --exact --accept-package-agreements --accept-source-agreements
 winget install --id 7zip.7zip --exact --accept-package-agreements --accept-source-agreements
 winget install --id Flameshot.Flameshot --exact --accept-package-agreements --accept-source-agreements
 winget install --id Microsoft.Teams --exact --accept-package-agreements --accept-source-agreements
@@ -28,7 +29,7 @@ winget install --id Microsoft.WindowsTerminal --exact --accept-package-agreement
 winget install --id Microsoft.Sysinternals.Desktops --exact --accept-package-agreements --accept-source-agreements
 winget install --id ClamWin.ClamWin --exact --accept-package-agreements --accept-source-agreements
 winget install --id Postman.Postman --exact --accept-package-agreements --accept-source-agreements
-winget install -e --id Zoom.Zoom
+winget install --id Zoom.Zoom  --exact --accept-package-agreements --accept-source-agreements
 
 echo === BAIXANDO INSTALADORES EXTERNOS COM CURL ===
 
