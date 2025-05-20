@@ -30,6 +30,7 @@ winget install --id Microsoft.Sysinternals.Desktops --exact --accept-package-agr
 winget install --id ClamWin.ClamWin --exact --accept-package-agreements --accept-source-agreements
 winget install --id Postman.Postman --exact --accept-package-agreements --accept-source-agreements
 winget install --id Zoom.Zoom  --exact --accept-package-agreements --accept-source-agreements
+winget install --id Docker.DockerDesktop  --exact --accept-package-agreements --accept-source-agreements
 
 echo === BAIXANDO INSTALADORES EXTERNOS COM CURL ===
 
